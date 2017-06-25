@@ -1,7 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gitignore
 .idea/
 MyBatisDemo.iml
-src/main/java/com/mybatis/controller/
-src/test/
 target/
